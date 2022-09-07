@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49bd80a5.chunk.css",
+    "main.js": "/static/js/main.745240e6.chunk.js",
+    "main.js.map": "/static/js/main.745240e6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.74fda770.js",
+    "runtime-main.js.map": "/static/js/runtime-main.74fda770.js.map",
+    "static/js/2.3fb5b525.chunk.js": "/static/js/2.3fb5b525.chunk.js",
+    "static/js/2.3fb5b525.chunk.js.map": "/static/js/2.3fb5b525.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.49bd80a5.chunk.css.map": "/static/css/main.49bd80a5.chunk.css.map",
+    "static/js/2.3fb5b525.chunk.js.LICENSE.txt": "/static/js/2.3fb5b525.chunk.js.LICENSE.txt",
+    "static/media/20075.bfaf73b7.jpg": "/static/media/20075.bfaf73b7.jpg",
+    "static/media/20167.2876c404.jpg": "/static/media/20167.2876c404.jpg",
+    "static/media/20172.9daff3aa.jpg": "/static/media/20172.9daff3aa.jpg",
+    "static/media/2_3_Convocation.575240f8.jpg": "/static/media/2_3_Convocation.575240f8.jpg",
+    "static/media/Devika.12db37e8.jpg": "/static/media/Devika.12db37e8.jpg",
+    "static/media/Dhanraj2.e15e7172.jpg": "/static/media/Dhanraj2.e15e7172.jpg",
+    "static/media/Carousel.css": "/static/media/Home2.7c61187c.jfif",
+    "static/media/NITAP.36f05538.png": "/static/media/NITAP.36f05538.png",
+    "static/media/Saiteja.07a36a40.jpg": "/static/media/Saiteja.07a36a40.jpg",
+    "static/media/Tulasi2.7a65c0f2.jpg": "/static/media/Tulasi2.7a65c0f2.jpg",
+    "static/media/Yashasvi.d410dc58.jpg": "/static/media/Yashasvi.d410dc58.jpg",
+    "static/media/almaconnectlogo.2500419b.png": "/static/media/almaconnectlogo.2500419b.png",
+    "static/media/bankdetails.d330303e.PNG": "/static/media/bankdetails.d330303e.PNG",
+    "static/media/events.css": "/static/media/campus.d471c772.mp4",
+    "static/media/campus2.29309303.mp4": "/static/media/campus2.29309303.mp4",
+    "static/media/director.2934bc0e.PNG": "/static/media/director.2934bc0e.PNG",
+    "static/media/img.21b9ca41.jfif": "/static/media/img.21b9ca41.jfif",
+    "static/media/kalabharati.f6e7b6b9.PNG": "/static/media/kalabharati.f6e7b6b9.PNG",
+    "static/media/nitap2.0.36f05538.png": "/static/media/nitap2.0.36f05538.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74fda770.js",
+    "static/js/2.3fb5b525.chunk.js",
+    "static/css/main.49bd80a5.chunk.css",
+    "static/js/main.745240e6.chunk.js"
+  ]
+}
