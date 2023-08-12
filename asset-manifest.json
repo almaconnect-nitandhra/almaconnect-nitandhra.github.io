@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ca5bf62e.chunk.css",
-    "main.js": "/static/js/main.c3e08739.chunk.js",
-    "main.js.map": "/static/js/main.c3e08739.chunk.js.map",
+    "main.js": "/static/js/main.ead5b3ec.chunk.js",
+    "main.js.map": "/static/js/main.ead5b3ec.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fef88689.js",
     "runtime-main.js.map": "/static/js/runtime-main.fef88689.js.map",
     "static/js/2.00286dd1.chunk.js": "/static/js/2.00286dd1.chunk.js",
@@ -27,12 +27,13 @@
     "static/media/director.2934bc0e.PNG": "/static/media/director.2934bc0e.PNG",
     "static/media/img.21b9ca41.jfif": "/static/media/img.21b9ca41.jfif",
     "static/media/kalabharati.f6e7b6b9.PNG": "/static/media/kalabharati.f6e7b6b9.PNG",
-    "static/media/nitap2.0.36f05538.png": "/static/media/nitap2.0.36f05538.png"
+    "static/media/nitap2.0.36f05538.png": "/static/media/nitap2.0.36f05538.png",
+    "static/media/ritvik.26aaacd5.png": "/static/media/ritvik.26aaacd5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fef88689.js",
     "static/js/2.00286dd1.chunk.js",
     "static/css/main.ca5bf62e.chunk.css",
-    "static/js/main.c3e08739.chunk.js"
+    "static/js/main.ead5b3ec.chunk.js"
   ]
 }
