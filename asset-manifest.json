@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca5bf62e.chunk.css",
-    "main.js": "/static/js/main.ead5b3ec.chunk.js",
-    "main.js.map": "/static/js/main.ead5b3ec.chunk.js.map",
+    "main.css": "/static/css/main.2e8c0eea.chunk.css",
+    "main.js": "/static/js/main.f17fc23e.chunk.js",
+    "main.js.map": "/static/js/main.f17fc23e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fef88689.js",
     "runtime-main.js.map": "/static/js/runtime-main.fef88689.js.map",
     "static/js/2.00286dd1.chunk.js": "/static/js/2.00286dd1.chunk.js",
     "static/js/2.00286dd1.chunk.js.map": "/static/js/2.00286dd1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ca5bf62e.chunk.css.map": "/static/css/main.ca5bf62e.chunk.css.map",
+    "static/css/main.2e8c0eea.chunk.css.map": "/static/css/main.2e8c0eea.chunk.css.map",
     "static/js/2.00286dd1.chunk.js.LICENSE.txt": "/static/js/2.00286dd1.chunk.js.LICENSE.txt",
     "static/media/20075.bfaf73b7.jpg": "/static/media/20075.bfaf73b7.jpg",
     "static/media/20167.2876c404.jpg": "/static/media/20167.2876c404.jpg",
@@ -24,7 +24,7 @@
     "static/media/almaconnectlogo.2500419b.png": "/static/media/almaconnectlogo.2500419b.png",
     "static/media/bankdetails.d330303e.PNG": "/static/media/bankdetails.d330303e.PNG",
     "static/media/campus2.29309303.mp4": "/static/media/campus2.29309303.mp4",
-    "static/media/director.2934bc0e.PNG": "/static/media/director.2934bc0e.PNG",
+    "static/media/director.19dcd120.jpg": "/static/media/director.19dcd120.jpg",
     "static/media/img.21b9ca41.jfif": "/static/media/img.21b9ca41.jfif",
     "static/media/kalabharati.f6e7b6b9.PNG": "/static/media/kalabharati.f6e7b6b9.PNG",
     "static/media/nitap2.0.36f05538.png": "/static/media/nitap2.0.36f05538.png",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.fef88689.js",
     "static/js/2.00286dd1.chunk.js",
-    "static/css/main.ca5bf62e.chunk.css",
-    "static/js/main.ead5b3ec.chunk.js"
+    "static/css/main.2e8c0eea.chunk.css",
+    "static/js/main.f17fc23e.chunk.js"
   ]
 }
